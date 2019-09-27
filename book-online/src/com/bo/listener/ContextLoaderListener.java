@@ -45,17 +45,17 @@ public class ContextLoaderListener implements ServletContextListener {
         //创建并生成图书数据列表
         List<Book> bookList = new ArrayList<>(10);
         Book[] books = {
-                new Book(1, "漫长的婚约", "book1.jpg", "[法] 塞巴斯蒂安"),
-                new Book(2, "庸人自扰", "book2.jpg", "[英]戴伦•麦加维"),
-                new Book(3, "绿山墙的安妮", "book3.jpg", "[美]理查德·耶茨"),
-                new Book(4, "敌人与邻居", "book4.jpg", "[英]伊恩·布莱克"),
-                new Book(5, "哀伤纪", "book5.jpg", "钟晓阳"),
-                new Book(6, "漫长的婚约", "book1.jpg", "[法] 塞巴斯蒂安"),
-                new Book(7, "庸人自扰", "book2.jpg", "[英]戴伦•麦加维"),
-                new Book(8, "绿山墙的安妮", "book3.jpg", "[美]理查德·耶茨"),
-                new Book(9, "敌人与邻居", "book4.jpg", "[英]伊恩·布莱克"),
-                new Book(10, "哀伤纪", "book5.jpg", "钟晓阳"),
-                new Book(11, "漫长的婚约", "book1.jpg", "[法] 塞巴斯蒂安"),
+                new Book(1, "漫长的婚约", "1.jpg", "[法] 塞巴斯蒂安"),
+                new Book(2, "庸人自扰", "2.jpg", "[英]戴伦•麦加维"),
+                new Book(3, "绿山墙的安妮", "3.jpg", "[美]理查德·耶茨"),
+                new Book(4, "敌人与邻居", "4.jpg", "[英]伊恩·布莱克"),
+                new Book(5, "哀伤纪", "5.png", "钟晓阳"),
+                new Book(6, "漫长的婚约", "7.jpeg", "[法] 塞巴斯蒂安"),
+                new Book(7, "庸人自扰", "8.jpeg", "[英]戴伦•麦加维"),
+                new Book(8, "绿山墙的安妮", "9.jpg", "[美]理查德·耶茨"),
+                new Book(9, "敌人与邻居", "10.jpg", "[英]伊恩·布莱克"),
+                new Book(10, "哀伤纪", "11.jpg", "钟晓阳"),
+                new Book(11, "漫长的婚约", ".jpg", "[法] 塞巴斯蒂安"),
                 new Book(12, "庸人自扰", "book2.jpg", "[英]戴伦•麦加维")
 
         };
