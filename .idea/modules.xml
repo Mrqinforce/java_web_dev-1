@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/book-online/book-online.iml" filepath="$PROJECT_DIR$/book-online/book-online.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game-online/game-online.iml" filepath="$PROJECT_DIR$/game-online/game-online.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-web-dev.iml" filepath="$PROJECT_DIR$/java-web-dev.iml" />
       <module fileurl="file://$PROJECT_DIR$/quickstart/quickstart.iml" filepath="$PROJECT_DIR$/quickstart/quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
     </modules>
   </component>
 </project>
